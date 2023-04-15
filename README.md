@@ -1,5 +1,5 @@
 # structurizr-environment
-Simple local setup for experimenting with the [Structurizr DSL](https://structurizr.com/dsl) and [Structurizr Lite](https://structurizr.com/help/lite) to create interactive [C4 models](https://c4model.com/).
+A simple local setup for experimenting with the [Structurizr DSL](https://structurizr.com/dsl) and [Structurizr Lite](https://structurizr.com/help/lite) to create interactive [C4 models](https://c4model.com/), without rendering them on public servers.
 
 ## Getting started
 Run `docker compose up` and navigate to `localhost:8080` to see the visualization in `Structurizr Lite`.  
