@@ -5,6 +5,6 @@ services:
     container_name: structurizr
     restart: always
     ports:
-      - "127.0.0.1:8080:8080"
+      - "8080:8080"
     volumes:
       - ./dsl:/usr/local/structurizr
